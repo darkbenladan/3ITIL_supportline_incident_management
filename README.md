@@ -1,6 +1,6 @@
 # 3ITIL supportline incident management. 3ёх уровневалия линия поддержки по ITIL и инцидент менеджмент
 
-В данном репозитории описагы примеры реализцаии 3 процессов:
+В данном репозитории описаны примеры реализцаии 3 процессов:
 1. 3 ITIL support line
 ![3 ITIL support line](3ITIL_supportline.png)
 2. Process incident management
